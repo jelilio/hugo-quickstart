@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: "2024-06-07T00:44:20+01:00"
-draft: true
+draft: false
 cover:
   image: img/texture.jpg
   alt: "texture"
